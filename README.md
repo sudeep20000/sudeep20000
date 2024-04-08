@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeep20000&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep20000" /> </p>
 
-<p align="left"> <a href="sudipta_500" target="blank"><img src="https://twitter.com/sudipta_500?logo=twitter&style=for-the-badge" alt="https://twitter.com/sudipta_500" /></a> </p>
+<p align="left"> <a href="sudipta_500" target="blank"><img src="https://twitter.com/SUDIPTA_500?logo=twitter&style=for-the-badge" alt="https://twitter.com/sudipta_500" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
